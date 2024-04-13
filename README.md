@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **maem1704@gmail.com**
 
+- ## Sobre mí
+
+¡Hola! Soy un estudiante de desarrollo de software en constante proceso de aprendizaje. Actualmente, estoy enfocado en fortalecer mis habilidades en Python y explorar algunos frameworks relacionados. 
+
+He trabajado con varios lenguajes de programación en el pasado, incluyendo Java y C++, pero actualmente estoy concentrado en Python para proyectos de desarrollo de software. Además, estoy aprendiendo y utilizando tecnologías web como HTML, CSS y Flask para desarrollar aplicaciones web.
+
 
 <br>
 
