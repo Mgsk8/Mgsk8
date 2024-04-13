@@ -4,7 +4,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Mgsk8/Mgsk8/blob/main/animation_500_kxa883sd.gif" alt="mgsk8" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
