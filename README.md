@@ -1,4 +1,3 @@
-
 <h1 align="center">Hola👋, mi nombre es Miguel Escobar</h1>
 <h3 align="center">estudiante de desarrollo de software, Universidad del valle (Colombia)🌟.</h3>
 
