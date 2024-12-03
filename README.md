@@ -12,9 +12,13 @@
 
 - ## Sobre mí
 
-¡Hola! Soy un estudiante de desarrollo de software en constante proceso de aprendizaje. Actualmente, estoy enfocado en fortalecer mis habilidades en Python y explorar algunos frameworks relacionados. 
+Soy un desarrollador de software apasionado con experiencia en backend y frontend, dedicado a crear soluciones eficientes, escalables y de alta calidad. Me destaco por aplicar principios de código limpio, buenas prácticas de desarrollo y arquitecturas sólidas que garantizan la mantenibilidad y la eficiencia en los proyectos.
 
-He trabajado con varios lenguajes de programación en el pasado, incluyendo Java y C++, pero actualmente estoy concentrado en Python para proyectos de desarrollo de software. Además, estoy aprendiendo y utilizando tecnologías web como HTML, CSS y Flask para desarrollar aplicaciones web.
+Tengo un amplio conocimiento en múltiples lenguajes y tecnologías, y he trabajado en equipos aplicando metodologías ágiles como Scrum y herramientas como Jira para la planificación y gestión de proyectos. Tengo experiencia en el uso de GitHub, asegurando un control de versiones eficiente y una colaboración fluida.
+
+Mi interés en DevOps me ha llevado a implementar pipelines de CI/CD para automatizar procesos y optimizar flujos de trabajo. Además, integro patrones de diseño y principios SOLID en el desarrollo, lo que me permite construir sistemas modulares y escalables.
+
+Cuento con experiencia en pruebas funcionales, unitarias y E2E, garantizando la calidad de las soluciones desde su etapa inicial hasta su implementación. Mi enfoque en la mejora continua y la innovación me impulsa a contribuir con valor a cada proyecto, adaptándome rápidamente a nuevas tecnologías y desafíos.
 
 
 <br>
